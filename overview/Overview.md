@@ -148,3 +148,14 @@
       Window size value: 64800                                                    #流量控制的窗口大小
 
       Checksum: 0x677e [validation disabled]                                      #TCP数据段的校验和
+
+
+  >TCP FLAG 标记
+* F : FIN - 结束; 结束会话
+* S : SYN - 同步; 表示开始会话请求
+* R : RST - 复位;中断一个连接
+* P : PUSH - 推送; 数据包立即发送
+* A : ACK - 应答
+* U : URG - 紧急
+* E : ECE - 显式拥塞提醒回应
+* W : CWR - 拥塞窗口减少
