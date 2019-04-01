@@ -1,7 +1,7 @@
 # TCP 3次握手过程
 <img src="handshark.png" width="1000px" />
 
-上图中从帧序号18～20为3次握手建立过程
+上图中从segment序号18～20为3次握手建立过程
 
 <img src="seq0syn1.png" width="600px" />
 
