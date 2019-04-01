@@ -48,6 +48,12 @@
 <img src="ssl_edit.png" width="800px" />
 
 
+## 跟踪tcp会话
+
+ - 选中一个segment，右击选中follow ->tcp stream
+
+<img src="follow.png" width="800px" />
+
 ## 补充
  >物理层的数据帧概况
 
